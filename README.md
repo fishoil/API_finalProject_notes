@@ -1,5 +1,5 @@
 # NotesAPI
-- NotesAPI is a simple RESTful API for managing notes and their associated users. It provides basic CRUD (Create, Read, Update, and Delete) operations to manage notes and users.
+- NotesAPI is a simple RESTful API for managing notes and their associated users. It provides basic CRUD (Create, Read, Update, and Delete) operations to manage notes and users. This project follows the MVC architecture pattern
 
 ## Table of Contents
 - Installation
