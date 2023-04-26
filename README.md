@@ -57,4 +57,6 @@ The following endpoints are available for managing notes and users:
 ### SQL commands for this project
 ![Screenshot 2023-04-26 at 6 19 45 PM](https://user-images.githubusercontent.com/49046183/234715347-cb80c352-0377-4c3d-a810-bf9ac141152d.png)
 
+# CHANGES
+- I wanted to make an Account Management API at first, but then I've realized that it will never be as useful as google chrome's autofill feature. So I changed it to a simpler NotesAPI.
 
