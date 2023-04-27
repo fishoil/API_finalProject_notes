@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - Installation
+- Usage
 - API Endpoints
 - Sample Requests and Responses
 
