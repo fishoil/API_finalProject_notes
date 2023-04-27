@@ -3,9 +3,8 @@
 
 ## Table of Contents
 - Installation
-- Usage
---API Endpoints
---Sample Requests and Responses
+- API Endpoints
+- Sample Requests and Responses
 
 ## Installation
 This API uses .NET and three different nuget packages:
